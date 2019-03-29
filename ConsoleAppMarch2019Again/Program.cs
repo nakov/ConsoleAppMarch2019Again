@@ -7,6 +7,7 @@ namespace ConsoleAppMarch2019Again
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine();
         }
     }
 }
