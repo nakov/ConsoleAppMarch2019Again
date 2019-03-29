@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ConsoleAppMarch2019Again
 {
@@ -7,7 +7,7 @@ namespace ConsoleAppMarch2019Again
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine();
+            Console.WriteLine("Hello Pesho!");
             Console.WriteLine("Added new line");
         }
     }
