@@ -8,6 +8,7 @@ namespace ConsoleAppMarch2019Again
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine();
+            Console.WriteLine("Added new line");
         }
     }
 }
